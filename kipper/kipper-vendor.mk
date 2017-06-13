@@ -137,13 +137,7 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so:system/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_video_nonHD.so:system/vendor/lib/libchromatix_ov8858_q8v19w_video_nonHD.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so:system/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libcneconn.so:system/vendor/lib/libcneconn.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libcneqmiutils.so:system/vendor/lib/libcneqmiutils.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libcne.so:system/vendor/lib/libcne.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libdpmframework.so:system/vendor/lib/libdpmframework.so \
-    vendor/wileyfox/kipper/proprietary/vendor/lib/libdpmnsrm.so:system/vendor/lib/libdpmnsrm.so \
+    vendor/wileyfox/kipper/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
@@ -161,6 +155,7 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/kipper/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+    vendor/wileyfox/kipper/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
